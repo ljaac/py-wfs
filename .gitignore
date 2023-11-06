@@ -1,0 +1,10 @@
+# 忽略编译输出和临时文件
+.idea
+build/
+dist/
+__pycache__
+
+
+# 忽略敏感信息
+*.xls*
+*.zip
